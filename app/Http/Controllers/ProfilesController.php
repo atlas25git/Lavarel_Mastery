@@ -14,7 +14,7 @@ class ProfilesController extends Controller
     public function index($user)
     {   
         $user = \App\Models\User::findOrFail($user);
-        return view('home',[
+        return view('profiles.index',[
             'user' => $user,
         ]);
     }
