@@ -12,6 +12,7 @@
         "intervention/image": "^2.5",
         "kus/php-image": "dev-master",
         "laravel/framework": "^8.40",
+        "laravel/telescope": "^4.4",
         "laravel/tinker": "^2.5",
         "laravel/ui": "^3.2",
         "tpmanc/yii2-imagick": "^1.3"
